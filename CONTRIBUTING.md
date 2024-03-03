@@ -85,5 +85,6 @@ Contributors:
 <br>[Mandar Pandit](https://github.com/Leo212003)
 <br>[Sarvesh Joshi](https://github.com/SavageJoshi)
 <br>[Ruchita Wagh](https://github.com/Roxie2003)
+<br>[Pratiksha Waghmode](https://github.com/Pratiksha1661)
 
 
